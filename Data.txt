@@ -1,8 +1,8 @@
 Please introduce yourself such as :
 
-Name 		:
-Student ID 	:
-Major 		:
+Name 		: 林佳賦
+Student ID 	: M07158004
+Major 		: 電子工程系
 
 After that, push on directory github classroom using "Git". 
 
